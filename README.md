@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="(https://github.com/andreydavydov570/andreydavydov570/blob/main/fbt-renvor.gif)" alt="The Unlimited" width="520"/>
+<img src="https://github.com/andreydavydov570/andreydavydov570/blob/main/fbt-renvor.gif" alt="The Unlimited" width="520"/>
 
 
 <!--
